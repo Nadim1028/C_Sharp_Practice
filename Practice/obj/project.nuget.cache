@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lKss1MRoOvnCWXJfXkZ6AOsdwXhCrZqmu6+cHRAX3m9dxiC758aiJrhAp+uN9FtQALJPLR8Xk4z4zbOAXJerg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cefalo\\source\\repos\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cefalo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
